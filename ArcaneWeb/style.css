@@ -1,0 +1,10 @@
+#header{
+    background-color:#945BC9;
+    color: #DCC6B0;
+    text-align: left;
+}
+body {
+    background-image: url('image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  };
